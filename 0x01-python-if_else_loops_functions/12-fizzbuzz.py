@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Author - Tolulope Fakunle
+# Author - Emmanuel Ibe
 """Print the numbers from 1 to 100 separated by a space.
   For multiples of three, print Fizz instead of the number
   For multiples of five, print Buzz instead of the number.
@@ -11,7 +11,7 @@
             print("FizzBuzz ", end="")
         elif number % 3 == 0:
             print("Fizz ", end="")
-        elif number % 5 == 0:
+        elif number % 5 == 0:   
             print("Buzz ", end="")
         else:
             print("{} ".format(number), end="")
