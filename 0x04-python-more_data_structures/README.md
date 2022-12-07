@@ -1,0 +1,1 @@
+Welcome once more to my new directory. Here we will be looking at more data structures. Having seen what we can pull through using lists and list comprehension, lets see how much more can be done. 
