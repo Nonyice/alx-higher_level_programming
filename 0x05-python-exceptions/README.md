@@ -1,0 +1,1 @@
+Exceptions in python is a way of handling errors in such a way the error outputs dont get messy on the screen. The use of /try/ and /except/ commands make this possible. Join me in this directory as i put up some codes to butress what has been explained. Welcome once mlre.
