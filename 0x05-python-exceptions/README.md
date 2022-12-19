@@ -1,1 +1,15 @@
-Exceptions in python is a way of handling errors in such a way the error outputs dont get messy on the screen. The use of /try/ and /except/ commands make this possible. Join me in this directory as i put up some codes to butress what has been explained. Welcome once mlre.
+# Python - Exceptions
+
+Python exceptions are a life savior.
+
+In this project, I learnt:
+- What’s the difference between errors and exceptions
+- What are exceptions and how to use them
+- When do we need to use exceptions
+- How to correctly handle an exception
+- What’s the purpose of catching exceptions
+- How to raise a builtin exception
+- When do we need to implement a clean-up action after an exception
+
+## Resources
+[Edureka](https://www.youtube.com/watch?v=NMTEjQ8-AJMf )
